@@ -172,7 +172,7 @@ Two Dropout(0.2) layers after each LSTM reduce overfitting by randomly deactivat
 
 ---
 
-## 👤 Author
+##  Author
 
 **Tayyabah Rehman** 
 MPhil Artificial Intelligence, University of the Punjab, Lahore  
